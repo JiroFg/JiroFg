@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi I am Edson Jair Fuentes García 👋</h1>
+</div>
+<img src="https://c.wallhere.com/photos/1b/dc/blueprints_Aperture_Laboratories_Portal_game_Portal_Gun-13423.jpg!d">
 
 <!--
 **JiroFg/JiroFg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
