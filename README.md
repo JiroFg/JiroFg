@@ -4,6 +4,6 @@
 <img src="https://c.wallhere.com/photos/1b/dc/blueprints_Aperture_Laboratories_Portal_game_Portal_Gun-13423.jpg!d">
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirofg)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiroFg)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
