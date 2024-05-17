@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirofg&show_icons=true&count_private=true&theme=dark)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JiroFg&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirofg&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JiroFg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
